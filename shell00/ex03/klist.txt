@@ -1,0 +1,5 @@
+Credentials cache: API:C30ACD37-DC94-4228-9672-4B83F30FA7CF
+        Principal: minseki3@42SEOUL.KR
+
+  Issued                Expires               Principal
+Aug 24 18:38:03 2022  Aug 25 04:38:03 2022  krbtgt/42SEOUL.KR@42SEOUL.KR
